@@ -1,6 +1,6 @@
 <?php
 return [
-    'site.name'=>'Kanadhar University',
+    'site.name'=>'Computer Science Faculty',
     'nav.home'=>'Home',
     'nav.about'=>'About',
     'nav.depts'=>'Departments',
@@ -11,7 +11,7 @@ return [
     'lang.en'=>'EN',
     'lang.ps'=>'PS',
     'lang.fa'=>'FA',
-    'hero.titel'=>'Welcome to Kandahar University',
+    'hero.titel'=>'Welcome to Computer Science Faculty',
     'hero.tagline'=>'Quality Education for Every one',
     'cta.learnmore'=>'Learn more'
 ];

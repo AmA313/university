@@ -12,7 +12,8 @@
 <?php include __DIR__ .'/partials/nav.php';?>
     <main>
         <section class="hero">
-            <div class="container wrap">
+            <img class="hero_img" src="assets/images/university.jpeg" alt="CS Compus">
+            <div class="hero_text">
                 <h1><?php echo __t('hero.titel',$t,'Welcome to Kandahar UNiversity');?></h1>
                 <p><?php echo __t('hero.tagline',$t,'Quality Education for every one.');?></p>
                 <a href="#"><?php echo __t('cta.learnmore',$t,'Learn More');?></a>

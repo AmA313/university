@@ -7,7 +7,7 @@ function link_with_lang($file,$lang){
 <header class="site-header">
     <div class="container nav-row" >
         <a href="<?php echo link_with_lang('index.php',$lang);?>" class="brand">
-        <img src="assets/images/logo.png" class="logo" alt="logo" width='100px'>
+        <img src="assets\images\Logo.png" class="logo" alt="logo" width='100px'>
         <span><?php echo __t('site.name',$t,'University');?></span></a>
         <button class="burger" aria-label="Menu" aria-expanded="false" onclick="toggleMenu">
             <span></span><span></span><span></span>
